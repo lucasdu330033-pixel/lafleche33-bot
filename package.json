@@ -1,5 +1,5 @@
 {
-  "name": "lafleche33-bot",
+  "name": "lafleche33-boutique",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -7,8 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "telegraf": "^4.16.2",
-    "mongoose": "^8.6.0",
-    "dotenv": "^16.4.5"
+    "express": "^4.19.2",
+    "mongoose": "^7.6.0"
   }
 }
